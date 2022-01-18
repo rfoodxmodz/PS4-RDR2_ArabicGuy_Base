@@ -1,7 +1,6 @@
 #pragma once
 #include "type.h"
 #include "version.h"
-#include "nativesData.h"
 
 #if GAME_VERSION == 100
 	#define DRAW_SPRITE_FIX (void*)0x1ED130D
